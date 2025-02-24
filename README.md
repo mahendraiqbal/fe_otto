@@ -1,7 +1,5 @@
 # Greeting Card Generator
 
-[Previous content remains the same...]
-
 ## Running the Application
 
 ### Development Mode
