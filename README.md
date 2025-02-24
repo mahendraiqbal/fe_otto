@@ -15,7 +15,7 @@ npm install
 2. Run the code:
 
 ```bash
-npm run dedv
+npm run dev
 ```
 
 3. Run the test code with jest:
